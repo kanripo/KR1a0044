@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易傳燈
-#+DATE: 2015-09-23 09:34:33
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:55:05.457865
+#+PROPERTY: ID KR1a0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1a0044_WYG_001-1a>¶
 欽定四庫全書¶
 　易傳燈卷一　　　　　　宋　徐氏　撰¶
@@ -266,4 +268,3 @@
 <pb:KR1a0044_WYG_001-15b>¶
 曰井言畜水于井不與汲用也井初六泥不見食徳不¶
 足取也四卦初六皆自上來為志于内隨時以處者也¶
-

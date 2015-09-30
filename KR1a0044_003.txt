@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易傳燈
-#+DATE: 2015-09-23 09:34:33
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 21:55:05.492356
+#+PROPERTY: ID KR1a0044
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0044_WYG_003-1a>¶
 欽定四庫全書¶
 　易傳燈卷三　　　　　　宋　徐氏　撰¶
@@ -298,4 +300,3 @@
 後學者未講究乾坤之成列遂不知易在何處亦不曉¶
 八卦因此而成列也故列乾坤成列之圖而知易立乎¶
 乾坤成列之中也¶
-
